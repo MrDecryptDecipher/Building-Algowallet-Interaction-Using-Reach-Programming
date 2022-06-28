@@ -1,3 +1,5 @@
 Step 1: After installing Reach with docker and other essentials on your system, type: ./reach 
 step 2: Type ./reach init (This will write two files index.rsh and index.mjs 
 step 3: use code editor to see these files.
+step 4: once done, type ./reach compile
+step 5: type ./reach run
